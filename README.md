@@ -1,2 +1,5 @@
 # codeforces
-코드포스 문제 및 대회리뷰
+
+- 1380A. Three Indices. 
+link <https://codeforces.com/problemset/problem/1380/A>. 
+: brute force, data structures
